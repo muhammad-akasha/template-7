@@ -1,0 +1,50 @@
+@media only screen and (min-width: 360px) and (max-width: 800px) {
+  body {
+    padding: 0px;
+    background-image: url(https://images.hdqwalls.com/download/black-hoodie-boy-angel-4k-ex-1280x2120.jpg);
+    background-size: cover;
+  }
+  .navbar {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+  }
+ 
+  .heading {
+    width: 95%;
+    font-size: 20px;
+  }
+
+  .nav-1 > h2 {
+    color: #856af7;
+    font-size: 20px;
+  }
+  .nav-2 {
+    display: flex;
+    justify-content: space-around;
+
+    width: 30%;color: whitesmoke
+    
+  }
+
+  .nav-2 > h4 {
+    font-size: 14px;
+  }
+  .image {
+    display: none;
+  }
+  .btn {
+    display: flex;
+    justify-content: space-between;
+    width: 70%;
+    align-items: center;
+  }
+  p {
+    color: gray;
+  }
+  .para {
+    width: 95%;
+    color: #15143966;
+    line-height: 30px;
+  }
+}

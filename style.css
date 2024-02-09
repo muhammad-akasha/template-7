@@ -16,7 +16,7 @@ nav{
 
 }
 .nav-2{
-    display: flex;justify-content: space-between;width: 25%;align-items: center; color: #15143966;
+    display: flex;justify-content: space-between;width: 35%;align-items: center; color: #15143966;
 }
 .nav-2>h3{
    color:  #15143966;
